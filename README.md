@@ -2,11 +2,11 @@
 
 Swift Radio is an open source radio station app with robust and professional features. This is a fully realized Radio App built entirely in Swift 2.
 
-![alt text](https://raw.githubusercontent.com/abhijit-mazumdar/SwiftRadio/blob/master/Screenshots/sr1.jpg "")
-![alt text](https://raw.githubusercontent.com/abhijit-mazumdar/SwiftRadio/blob/master/Screenshots/sr2.jpg "")
-![alt text](https://raw.githubusercontent.com/abhijit-mazumdar/SwiftRadio/blob/master/Screenshots/sr3.jpg "")
-![alt text](https://raw.githubusercontent.com/abhijit-mazumdar/SwiftRadio/blob/master/Screenshots/sr4.jpg "")
-![alt text](https://raw.githubusercontent.com/abhijit-mazumdar/SwiftRadio/blob/master/Screenshots/sr5.jpg "")
+![alt text](https://github.com/abhijit-mazumdar/SwiftRadio/blob/master/screenshots/sr1.png "")
+![alt text](https://github.com/abhijit-mazumdar/SwiftRadio/blob/master/screenshots/sr2.png "")
+![alt text](https://github.com/abhijit-mazumdar/SwiftRadio/blob/master/screenshots/sr3.png "")
+![alt text](https://github.com/abhijit-mazumdar/SwiftRadio/blob/master/screenshots/sr4.png "")
+![alt text](https://github.com/abhijit-mazumdar/SwiftRadio/blob/master/screenshots/sr5.png "")
 
 ##Features
 
